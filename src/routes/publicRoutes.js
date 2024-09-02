@@ -78,7 +78,7 @@ server.get('/lancamentos', (req, res) => {
                 {
                     "id": 1,
                     "titulo": "E-book",
-                    "preco": 29.9,
+                    "preco": 30.0,
                     "formatos": [
                         ".pdf",
                         ".pub",
